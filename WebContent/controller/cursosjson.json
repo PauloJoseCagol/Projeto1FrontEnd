@@ -1,0 +1,7 @@
+{	"cursos": 	
+		[
+			{"codigo":"1","descricao":"Java WEB","diashorarios":"Segunda 19hrs","professor":"Paulo J. Cagol"},
+			{"codigo":"2","descricao":"Java SE","diashorarios":"Terça 22hrs","professor":"João da Cunha"},
+			{"codigo":"3","descricao":"Delphi","diashorarios":"Quarta 13hrs","professor":"Almiro Lazaro"}
+		]
+}
